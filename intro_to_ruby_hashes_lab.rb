@@ -1,5 +1,4 @@
 def new_hash
-ef new_hash
   {}
 end
 
